@@ -52,7 +52,7 @@
     "degit": "^2.8.0",
     "get-svg-colors": "^1.5.1",
     "lodash": "^4.17.20",
-    "make-color-more-chill": "^0.2.0",
+    "make-color-more-chill": "^0.2.2",
     "mkdirp": "^1.0.4",
     "node-fetch": "^2.6.1",
     "pony-cause": "^1.0.0",
